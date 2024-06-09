@@ -1,0 +1,11 @@
+.slider-cont{
+   text-align: center;
+   margin: auto;
+   width: 30%;
+   
+}
+
+.sslider-cont .slider-img{
+    max-width: 80%  ;
+
+}   
